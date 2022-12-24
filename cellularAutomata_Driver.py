@@ -8,7 +8,7 @@ import tkinter
 import datetime
 import json
 from PIL import ImageGrab
-from cellularAutomota_Functions import *
+from cellularAutomota_functions import *
 
 def getNewNoiseGenerator(seed):
     #use the passed seed to create a new noise instance with a new seed
